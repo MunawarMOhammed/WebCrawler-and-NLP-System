@@ -1,0 +1,6 @@
+{
+  "tfidf_svm": {
+    "accuracy": 0.7737,
+    "macro_f1": 0.689
+  }
+}
