@@ -1,0 +1,13 @@
+data/raw/
+data/processed/corpus_raw.csv
+data/processed/corpus_cleaned.csv
+data/processed/corpus_labelled.csv
+data/models/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+.config/
+sample_data/
+*.pyc
+*.pt
+*.bin
