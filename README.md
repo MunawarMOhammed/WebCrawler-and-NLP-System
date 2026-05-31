@@ -1,5 +1,5 @@
-WebCrawler and NLP System
-MA5851 Assessment 3 — Housing Affordability Sentiment Analysis
+**WebCrawler and NLP System
+MA5851 Housing Affordability Sentiment Analysis**
 
 Project Overview
 This project investigates public sentiment toward the housing affordability crisis in Brisbane and Queensland using NLP and machine learning. Forum posts are scraped from three public Australian websites, cleaned, labelled, and classified using a fine-tuned DistilBERT model.
